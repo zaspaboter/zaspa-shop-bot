@@ -1,0 +1,11 @@
+TOKEN = "8934027343:AAEQf-i-aXQ0FFBCR-kmM4STIY_6sT6slH4"
+
+ADMIN_ID = 7747726585
+
+CHANNEL_ID = -1003672350945
+
+CHANNEL_LINK = "https://t.me/+AMO6iWxwBAtkZWMy"
+
+BOT_USERNAME = "zaspafreepriz_bot"
+
+DB_NAME = "database.db"
